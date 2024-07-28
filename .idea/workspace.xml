@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d65eebe5-c452-4cf0-8ed9-007973f2ab4b" name="Changes" comment="" />
+    <list default="true" id="d65eebe5-c452-4cf0-8ed9-007973f2ab4b" name="Changes" comment=" changes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +20,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/PavinSP/AccenturePython.git",
+    "accountId": "8c21ff30-3b30-4da6-91d2-9e6de84ad2d4"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 4
@@ -96,5 +102,9 @@
       <updated>1721869188438</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value=" changes" />
+    <option name="LAST_COMMIT_MESSAGE" value=" changes" />
   </component>
 </project>
