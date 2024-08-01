@@ -11,6 +11,5 @@ for i in range(len(arr)):
             arr[i] -= 2
         elif arr[i] >= 1:
             a_count += 1
-            arr[i] -= 2
+            arr[i] -= 1
 print(a_count)
-
