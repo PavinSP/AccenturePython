@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d65eebe5-c452-4cf0-8ed9-007973f2ab4b" name="Changes" comment=" changes">
-      <change afterPath="$PROJECT_DIR$/SubCodes/PrimeFactors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem21.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problem3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SubCodes/Factors.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/rough.py" beforeDir="false" afterPath="$PROJECT_DIR$/rough.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,24 +46,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Factors.executor&quot;: &quot;Run&quot;,
-    &quot;Python.PrimeFactors.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Problem1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Problem2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Problem3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Problem4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Problem5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Problem6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Problem7.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Problem8.executor&quot;: &quot;Run&quot;,
-    &quot;Python.rough.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;F:/Java/Python PyCharm/Accenture&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Factors.executor": "Run",
+    "Python.PrimeFactors.executor": "Run",
+    "Python.Problem1.executor": "Run",
+    "Python.Problem2.executor": "Run",
+    "Python.Problem21.executor": "Run",
+    "Python.Problem3.executor": "Run",
+    "Python.Problem4.executor": "Run",
+    "Python.Problem5.executor": "Run",
+    "Python.Problem6.executor": "Run",
+    "Python.Problem7.executor": "Run",
+    "Python.Problem8.executor": "Run",
+    "Python.rough.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "F:/Java/Python PyCharm/Accenture"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\Java\Python PyCharm\Accenture" />
@@ -118,8 +117,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Problem8" />
         <item itemvalue="Python.Problem6" />
+        <item itemvalue="Python.Problem8" />
       </list>
     </recent_temporary>
   </component>
@@ -155,7 +154,23 @@
       <option name="project" value="LOCAL" />
       <updated>1722143874156</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary=" changes">
+      <option name="closed" value="true" />
+      <created>1722471357327</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1722471357327</updated>
+    </task>
+    <task id="LOCAL-00004" summary=" changes">
+      <option name="closed" value="true" />
+      <created>1722471511455</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1722471511455</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
